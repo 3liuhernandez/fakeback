@@ -1,0 +1,45 @@
+{
+
+    "users": [
+        {
+            "user_id": 1,
+            "team_id": 1,
+            "team": "Comercial",
+            "role": 10,
+            "apellido": "Ortega",
+            "nombre": "Ruben",
+            "username": "user1",
+            "password": "12345"
+        },
+        {
+            "user_id": 15,
+            "team_id": 1,
+            "team": "Comercial",
+            "role": 15,
+            "apellido": "Fernando",
+            "nombre": "Gonzales",
+            "username": "user15",
+            "password": "12345"
+        },
+        {
+            "user_id": 2,
+            "team_id": 20,
+            "team": "Soporte Comercial",
+            "role": 2,
+            "apellido": "Serafini",
+            "nombre": "Ivana",
+            "username": "user2",
+            "password": "12345"
+        },
+        {
+            "user_id": 3,
+            "team_id": 30,
+            "team": "Compliance",
+            "role": 3,
+            "apellido": "Rodriguez",
+            "nombre": "Sabrina",
+            "username": "user3",
+            "password": "12345"
+        }
+    ]
+}
